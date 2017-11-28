@@ -181,3 +181,6 @@ of simplicity.
 
 For any question, please contact:
 Barthélémy von Haller (barthelemy_vonhaller@yahoo.fr)
+
+# simple_vad
+A simple vad algorithm
